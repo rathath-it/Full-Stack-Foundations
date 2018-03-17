@@ -30,6 +30,8 @@
 ## File-based project format:
 *.ipr
 *.iws
+*.pyc
+*.db
 
 ## Plugin-specific files:
 
@@ -48,3 +50,5 @@ crashlytics.properties
 crashlytics-build.properties
 
 .vagrant/
+
+__pycache__
